@@ -40,7 +40,7 @@ PCVRで動作させる場合すべての処理が接続されているPC(動作�
 
 Oculus単体で立ち上げる場合動作の処理はすべてOculus側で行います。<br>
 そのため動作が個々の機器によって異なるということはありません。<br>
-一方で
+
 
 代表例：Cluster
 <img src="https://user-images.githubusercontent.com/71868188/196956041-6af08fd1-9546-47bc-85c3-842d53d4f0e1.png" width="360px">  
