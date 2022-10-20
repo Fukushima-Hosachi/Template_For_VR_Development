@@ -15,21 +15,32 @@ Unity＋Oculusの開発記事に技術検証を付け加えたメモ書きにな
 #### ①Oculus＋PC(PCVR)で動作させる場合
 
 PCVRで動作させる場合すべての処理が接続されているPC(動作させるPC)に依存します。<br>
-参考までにPCVRに必要最低限のスペックが以下の通りです
+参考にPCVRに必要最低限のスペックが以下の通りです。
 
-
-| CPU | Intel i5-490 |
+| パーツ | 型番 |
 |:---:|:---:|
 | GPU | GTX 1060 |
 | RAM | 8GB |
 | USBケーブル | 必要に応じて |
 | Wifi | 5Ghz |
 
-
 ※引用(https://drone-guide.org/oq2-pcvr-spec/)
+
+そんなに高いスペックは求められませんが高処理をかけた場合、こちらで動いたがあちらで動かないということもしばしばあります。<br>
+
+
+代表例：SteamVR　<img src="https://user-images.githubusercontent.com/71868188/196950937-8f69f3a5-e0f8-4b58-870e-191b4965da50.png" width="360px"> 
 
 
 #### ②Oculus単機で動作させる場合
 
 Oculus単体で立ち上げる場合動作の処理はすべてOculus側で行います。<br>
-そのため動作が個々の機器によって異なるという
+そのため動作が個々の機器によって異なるということはありません。<br>
+一方で
+
+代表例：Cluster
+<img src="https://user-images.githubusercontent.com/71868188/196956041-6af08fd1-9546-47bc-85c3-842d53d4f0e1.png" width="360px">
+YoutubeVR
+<img src="https://user-images.githubusercontent.com/71868188/196956492-6f98f2ed-32df-4ca0-801e-b40ae075ff91.png" width="360px">
+
+
