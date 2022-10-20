@@ -57,8 +57,12 @@ YoutubeVR
 
 続いてUnity＋OculusによるVR開発についてです。<br>
 以上２つの方法の動作方法がありますが、上記内容を踏まえてPCVRによる開発を前提に環境構築・技術検証を行った。
+
+>参考元(https://qiita.com/pira/items/1c935f30d5ba6c020333)
+
 1. 環境構築  
  ・使用したもの  
-  OculusQuest2、Unity 2021.3.9f1、デスクトップPC、
+   機材関係：OculusQuest2、Unity 2021.3.9f1、デスクトップPC  
+   プラグイン関係：
 
 2. 
