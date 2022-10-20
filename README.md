@@ -92,7 +92,7 @@ YoutubeVR
    
    ⑪書き出しはWin、exe形式で書き出しを行い、それを起動するとPCVRで立ち上げが可能です  
    
-   ⑫以上が開発の手順となります。  
+   ⑫以上が開発の手順となります  
   
 Releaseにてサンプルシーン(コントローラー、キューブの表示がされているワールド)をテストできます。
 >(https://github.com/Fukushima-Hosachi/Template_For_VR_Development/releases)  
