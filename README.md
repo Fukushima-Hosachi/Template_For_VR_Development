@@ -31,7 +31,8 @@ PCVRで動作させる場合すべての処理が接続されているPC(動作�
 
 代表例：SteamVR　<img src="https://user-images.githubusercontent.com/71868188/196950937-8f69f3a5-e0f8-4b58-870e-191b4965da50.png" width="360px"> 
 
-`**ット：`
+` メリット： `  
+` デメリット： `
 
 ----
 
@@ -45,6 +46,9 @@ Oculus単体で立ち上げる場合動作の処理はすべてOculus側で行�
 <img src="https://user-images.githubusercontent.com/71868188/196956041-6af08fd1-9546-47bc-85c3-842d53d4f0e1.png" width="360px">
 YoutubeVR
 <img src="https://user-images.githubusercontent.com/71868188/196956492-6f98f2ed-32df-4ca0-801e-b40ae075ff91.png" width="360px">
+
+` メリット： 個々の機材で違う動作が起こることは少ない。`  
+` デメリット：Oculus側へのデプロイ方法が曖昧。Oculus Link(有線接続)よるデプロイ方法であるためゲーブルが必須 `
 
 
 ## Unity＋OculusによるVR開発について
