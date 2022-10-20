@@ -62,7 +62,7 @@ YoutubeVR
 
 1. 環境構築  
  ・使用したもの  
-   機材関係：OculusQuest2、Unity 2021.3.9f1、デスクトップPC  
+   機材関係：OculusQuest2、Unity 2021.3.9f1、デスクトップPC、Oculus AirLink  
    プラグイン関係： Oculus Integration (Unity Asset Store)
 
 2. 導入手順  
