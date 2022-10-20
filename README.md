@@ -32,7 +32,7 @@ PCVRで動作させる場合すべての処理が接続されているPC(動作�
 代表例：SteamVR　<img src="https://user-images.githubusercontent.com/71868188/196950937-8f69f3a5-e0f8-4b58-870e-191b4965da50.png" width="360px"> 
 
 ` メリット： デバッグが簡単`  
-` デメリット： `
+` デメリット： あ `
 
 ----
 
