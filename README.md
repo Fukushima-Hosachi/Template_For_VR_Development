@@ -31,7 +31,7 @@ PCVRで動作させる場合すべての処理が接続されているPC(動作�
 
 代表例：SteamVR　<img src="https://user-images.githubusercontent.com/71868188/196950937-8f69f3a5-e0f8-4b58-870e-191b4965da50.png" width="360px"> 
 
-` メリット： `  
+` メリット： デバッグが簡単`  
 ` デメリット： `
 
 ----
@@ -51,8 +51,8 @@ YoutubeVR
 ` デメリット：Oculus側へのデプロイ方法が曖昧。Oculus Link(有線接続)よるデプロイ方法であるためゲーブルが必須 `
 
 
-## Unity＋OculusによるVR開発について
+## Unity＋OculusによるVR開発詳細について
 
 続いてUnity＋OculusによるVR開発についてです。<br>
-以上２つの方法の動作方法があります。それらにおいて現段階での調査および技術検証を加えて
+以上２つの方法の動作方法がありますが。上記内容を踏まえてPCVRによる開発を
 
