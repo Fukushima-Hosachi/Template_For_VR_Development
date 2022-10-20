@@ -1,4 +1,4 @@
-#README(メモ含み
+# README(メモ含み
 
-##Unity＋OculusによるVR開発について
-あああ
+## Unity＋OculusによるVR開発について
+①
