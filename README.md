@@ -63,6 +63,20 @@ YoutubeVR
 1. 環境構築  
  ・使用したもの  
    機材関係：OculusQuest2、Unity 2021.3.9f1、デスクトップPC  
-   プラグイン関係：
+   プラグイン関係： Oculus Integration (Unity Asset Store)
 
-2. 
+2. 導入手順  
+   ①Oculusを開発者モードにする  
+   ②Unityを起動、今回は3Dモードで作成  
+   ③Oculus IntegrationをAsset Storeよりダウンロード、インポート  
+   ④XR Plug-in Managementをインポート、Initialize XR on Startup、Oculusにチェック
+   ![image](https://user-images.githubusercontent.com/71868188/196980515-ff505417-83c4-40e2-90f5-111bb1290f0b.png)
+   ⑤テクスチャ圧縮をASTCに変換
+   ![image](https://user-images.githubusercontent.com/71868188/196981804-0a485d4f-4a1d-4222-a263-7aea6cb155b8.png)
+   ⑥レンダリングの色空間をガンマからリニアに変更
+   ![image](https://user-images.githubusercontent.com/71868188/196982149-0affdde9-9334-4841-804e-f242e63a7796.png)
+   ⑦テストはAndroidでもWinでもできますがPCVR想定なのでWinのままで
+   ⑧
+
+
+
