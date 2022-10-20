@@ -67,16 +67,27 @@ YoutubeVR
 
 2. 導入手順  
    ①Oculusを開発者モードにする  
+   
    ②Unityを起動、今回は3Dモードで作成  
-   ③Oculus IntegrationをAsset Storeよりダウンロード、インポート  
+   
+   ③Oculus IntegrationをAsset Storeよりダウンロード、インポート 
+   
    ④XR Plug-in Managementをインポート、Initialize XR on Startup、Oculusにチェック  
    ![image](https://user-images.githubusercontent.com/71868188/196980515-ff505417-83c4-40e2-90f5-111bb1290f0b.png)  
+   
    ⑤テクスチャ圧縮をASTCに変換  
    ![image](https://user-images.githubusercontent.com/71868188/196981804-0a485d4f-4a1d-4222-a263-7aea6cb155b8.png)  
+   
    ⑥レンダリングの色空間をガンマからリニアに変更  
    ![image](https://user-images.githubusercontent.com/71868188/196982149-0affdde9-9334-4841-804e-f242e63a7796.png)  
+   
    ⑦テストはAndroidでもWinでもできますがPCVR想定なのでWinのままで  
-   ⑧
-
-
-
+   
+   ⑧サンプルとしてOculus > VR > ScenesからControllerModelsを立ち上げてみましょう  
+   
+   ⑨Oculusを接続し再生ボタンを押すとテストができます  
+   ![image](https://user-images.githubusercontent.com/71868188/196985255-99ff8f30-b534-4b16-81d2-f0a40b35335e.png)  
+   
+   ⑩ゴーグルを被るとVR環境でテストができます(図省略  
+   
+   ⑪書き出しはWin、exe形式で書き出しを行い、それを起動するとPCVRで立ち上げが可能です  
