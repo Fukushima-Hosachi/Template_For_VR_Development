@@ -1,5 +1,5 @@
 
-## Unity＋OculusによるVR開発について
+## OculusによるVR開発について
 
 Unity＋Oculusの開発記事に技術検証を付け加えたメモ書きになります。<br>
 最初にVR開発において以下の二つの手法があります。
@@ -24,13 +24,16 @@ PCVRで動作させる場合すべての処理が接続されているPC(動作�
 | USBケーブル | 必要に応じて |
 | Wifi | 5Ghz |
 
-※引用(https://drone-guide.org/oq2-pcvr-spec/)
+>引用(https://drone-guide.org/oq2-pcvr-spec/)
 
 そんなに高いスペックは求められませんが高処理をかけた場合、こちらで動いたがあちらで動かないということもしばしばあります。<br>
 
 
 代表例：SteamVR　<img src="https://user-images.githubusercontent.com/71868188/196950937-8f69f3a5-e0f8-4b58-870e-191b4965da50.png" width="360px"> 
 
+`**ット：`
+
+----
 
 #### ②Oculus単機で動作させる場合
 
@@ -43,4 +46,9 @@ Oculus単体で立ち上げる場合動作の処理はすべてOculus側で行�
 YoutubeVR
 <img src="https://user-images.githubusercontent.com/71868188/196956492-6f98f2ed-32df-4ca0-801e-b40ae075ff91.png" width="360px">
 
+
+## Unity＋OculusによるVR開発について
+
+続いてUnity＋OculusによるVR開発についてです。<br>
+以上２つの方法の動作方法があります。それらにおいて現段階での調査および技術検証を加えて
 
