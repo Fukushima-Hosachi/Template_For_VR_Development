@@ -22,7 +22,7 @@ PCVRで動作させる場合すべての処理が接続されているPC(動作�
 | GPU | GTX 1060 |
 | RAM | 8GB |
 | USBケーブル | 必要に応じて |
-| Wifi | 5Ghz |
+| Wifi | 5GHz |
 
 >引用(https://drone-guide.org/oq2-pcvr-spec/)
 
